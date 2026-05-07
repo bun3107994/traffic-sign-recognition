@@ -1,0 +1,20 @@
+BIAS ANALYSIS REPORT
+============================================================
+
+5 Worst Classes:
+  Class 0 | Speed limit 20 | 6.67% (60 samples)
+  Class 39 | Keep left | 35.56% (90 samples)
+  Class 30 | Ice/snow | 44.0% (150 samples)
+  Class 3 | Speed limit 60 | 45.11% (450 samples)
+  Class 19 | Dangerous curve left | 46.67% (60 samples)
+
+5 Best Classes:
+  Class 13 | Yield | 93.19% (720 samples)
+  Class 20 | Dangerous curve right | 95.56% (90 samples)
+  Class 33 | Turn right ahead | 96.67% (210 samples)
+  Class 16 | No vehicles >3.5t | 99.33% (150 samples)
+  Class 32 | End restrictions | 100.0% (60 samples)
+
+Class Imbalance Check:
+  Avg accuracy (< 100 samples):  64.58%
+  Avg accuracy (>= 100 samples): 77.9%
